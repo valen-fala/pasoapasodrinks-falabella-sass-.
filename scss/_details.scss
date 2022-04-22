@@ -1,0 +1,18 @@
+body header{
+    height: 12rem;
+}
+body main{
+    margin-bottom: 3rem;
+}
+.bordesredondeados{
+    border-radius: 20%;
+    border-style: dashed;
+}
+body h1{
+    animation:bounceInDown;
+    animation-duration: 3s;
+}
+body h2{
+    animation: backInRight;
+    animation-duration: 3s;
+}
